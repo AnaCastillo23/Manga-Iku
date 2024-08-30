@@ -33,9 +33,13 @@ video {
   margin-top: 20px;
 } */
 
-div {
-  display: inline-block;
+.header {
+ height: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
+
 
 img {
   width: 150px;
