@@ -26,12 +26,15 @@ video {
   max-width: 100%;
 } */
 
-.images {
-  
+img {
+  width: 200px;
+  height: 298.4px;
+  radius: 4px;
 }
 
-.button {
-  
+button {
+ background-color: rgb(253, 218, 121);
+  font: 30px;
 }
 
 p {
