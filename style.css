@@ -33,6 +33,10 @@ video {
   margin-top: 20px;
 } */
 
+div {
+  display: inline-block;
+}
+
 img {
   width: 150px;
 }
