@@ -40,6 +40,18 @@ video {
   justify-content: space-between;
 }
 
+.left-side {
+  height: 130px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.website-icon {
+  height: 150px;
+}
+
 
 img {
   width: 150px;
