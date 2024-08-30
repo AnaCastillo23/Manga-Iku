@@ -20,10 +20,18 @@ body {
 }
 
 /* images and videos max out at full width */
-img,
+/* img,
 video {
   height: auto;
   max-width: 100%;
+} */
+
+.images {
+  
+}
+
+.button {
+  
 }
 
 p {
