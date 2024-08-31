@@ -34,7 +34,7 @@ video {
 } */
 
 .header {
- height: 150px;
+ height: 55px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
