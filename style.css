@@ -104,16 +104,19 @@ video {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  margin-top: 15px;
+  margin-top: 20px;
   flex-shrink: 0;
 }
 
-.shopping-cart-icon {
-  height: 50px;
-  display: flex;
-  align-items: center;
-    margin-left: 40px;
-    margin-top: 10px;
+.shopping-cart-button {
+  background-color: rgb(241, 244, 253);
+  border: none;
+  cursor: pointer;
 }
+
+.shopping-cart-icon {
+  height: 35px;
+}
+
 
 
