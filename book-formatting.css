@@ -2,7 +2,7 @@
   width: 200px;
   height: 298.4px;
   border-radius: 10px;
-  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
 }
 
 .open-sans {
@@ -26,7 +26,7 @@
 
 .add-to-cart-button {
   background: rgb(217, 38, 76);
-  width: 100px;
+  width: 110px;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 10px;
@@ -36,8 +36,17 @@
   color: white;
   font-family: sans-serif;
   font-weight: bold;
-  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.30);
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
   transition: opacity 0.15s;
   cursor: pointer;
-  
 }
+
+.add-to-cart-button:hover {
+  background: white;
+  border-color: 
+}
+
+.add-to-cart-button:active {
+  opacity: 0.5;
+}
+
