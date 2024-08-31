@@ -91,7 +91,14 @@ video {
   cursor: pointer;
   background-color: rgb(241, 244, 253);
   margin-left:10px;
-  
+  border: none;
+}
+.search-icon {
+  height: 30px;
+}
+
+.right-section {
+  width: 260px;
   
 }
 
@@ -103,7 +110,4 @@ video {
     margin-top: 10px;
 }
 
-.search-icon {
-  height: 30px;
-}
 
