@@ -1,0 +1,29 @@
+.book-image {
+  width: 200px;
+  height: 298.4px;
+  border-radius: 10px;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4);
+}
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.title {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+.author {
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.add-to-cart-button {
+  background-image: linear-gradient(to right, rgb(250, 115, 152) , rgb(250, 115, 152));
+}
