@@ -25,5 +25,19 @@
 }
 
 .add-to-cart-button {
-  background-image: linear-gradient(to right, rgb(250, 115, 152) , rgb(250, 115, 152));
+  background: rgb(217, 38, 76);
+  width: 100px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.30);
+  transition: opacity 0.15s;
+  cursor: pointer;
+  
 }
