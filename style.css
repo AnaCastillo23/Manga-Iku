@@ -102,10 +102,18 @@ video {
   border: none;
   cursor: pointer;
   margin-top:15px;
+  transition: opacity 0.15s;
 }
 
 .shopping-cart-icon {
   height: 35px;
+}
+
+.shopping-cart-icon:hover {
+  opacity: 0.6;
+}
+.shopping-cart-icon:active {
+  opacity: 0.4;
 }
 
 .user-section {
@@ -119,13 +127,20 @@ video {
   background-color: rgb(241, 244, 253);
   border: none;
   cursor: pointer;
+  transition: opacity 0.15s;
 }
 
 .user-profile-icon {
   height: 35px;
 }
 
+.user-profile-icon:hover {
+  opacity: 0.6;
+}
 
+.user-profile-icon:active {
+  opacity: 0.4;
+}
 
 
 .welcome-banner {
