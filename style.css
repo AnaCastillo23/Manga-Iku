@@ -112,6 +112,7 @@ video {
   display: flex;
   margin-top:15px;
   margin-left: 20px;
+  align-items: center;
 }
 
 .user-profile-button {
@@ -127,8 +128,9 @@ video {
 .welcome-banner {
   margin-left: 5px;
   font-family: sans-serif;
-  color: rgb(128, 125, 130)
+  color: rgb(128, 125, 130);
 }
+
 
 
 
