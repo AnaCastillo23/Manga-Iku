@@ -63,8 +63,6 @@ video {
     margin-top: 15px;
 }
 
-
-
 .open-sans-search-box {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -84,6 +82,17 @@ video {
   padding-left: 20px;
   padding-right: 100px;
   margin-top: 15px;
+}
+
+.search-button {
+  height:45px;
+  width:60px;
+  margin-top:15px;
+  cursor: pointer;
+  background-color: rgb(241, 244, 253);
+  margin-left:10px;
+  
+  
 }
 
 .shopping-cart-icon {
