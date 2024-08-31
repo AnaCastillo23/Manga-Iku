@@ -63,11 +63,31 @@ video {
     margin-top: 15px;
 }
 
+
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 .search-box {
   flex:1;
   border:none;
   border-radius: 30px;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+  font-size:20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 100px;
+  margin-top: 15px;
+  font-family: sans-serif;
+  
+  
 }
 
 .shopping-cart-icon {
