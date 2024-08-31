@@ -13,11 +13,11 @@ html {
 }
 
 /* adjust typography defaults */
-body {
+/* body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-}
+} */
 
 /* images and videos max out at full width */
 /* img,
@@ -60,15 +60,7 @@ video {
     margin-top: 10px;
 }
 
-
-
-
-button {
- background-color: rgb(253, 218, 121);
-  font: 30px;
-}
-
-p {
-  color: red;
+.search-icon {
+  height: 30px;
 }
 
