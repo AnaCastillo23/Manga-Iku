@@ -84,18 +84,7 @@ video {
   margin-top: 15px;
 }
 
-.search-button {
-  height:45px;
-  width:60px;
-  margin-top:15px;
-  cursor: pointer;
-  background-color: rgb(241, 244, 253);
-  margin-left:10px;
-  border: none;
-}
-.search-icon {
-  height: 30px;
-}
+
 
 .right-section {
   width: 260px;
@@ -103,7 +92,7 @@ video {
   height: 100px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  
   margin-top: 20px;
   flex-shrink: 0;
 }
@@ -112,6 +101,7 @@ video {
   background-color: rgb(241, 244, 253);
   border: none;
   cursor: pointer;
+  margin-top:15px;
 }
 
 .shopping-cart-icon {
@@ -119,7 +109,9 @@ video {
 }
 
 .user-section {
-  justify
+  display: flex;
+  margin-top:15px;
+  margin-left: 20px;
 }
 
 .user-profile-button {
@@ -131,5 +123,12 @@ video {
 .user-profile-icon {
   height: 35px;
 }
+
+.welcome-banner {
+  margin-left: 5px;
+  
+}
+
+
 
 
