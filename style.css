@@ -103,7 +103,7 @@ video {
   height: 100px;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
   margin-top: 20px;
   flex-shrink: 0;
 }
@@ -118,5 +118,18 @@ video {
   height: 35px;
 }
 
+.user-section {
+  justify
+}
+
+.user-profile-button {
+  background-color: rgb(241, 244, 253);
+  border: none;
+  cursor: pointer;
+}
+
+.user-profile-icon {
+  height: 35px;
+}
 
 
