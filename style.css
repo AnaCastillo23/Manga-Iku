@@ -63,7 +63,7 @@ video {
     margin-top: 15px;
 }
 
-.open-sans-search-box {
+.open-sans {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -82,8 +82,8 @@ video {
   padding-left: 20px;
   padding-right: 100px;
   margin-top: 15px;
+  outline: none;
 }
-
 
 
 .right-section {
@@ -126,7 +126,8 @@ video {
 
 .welcome-banner {
   margin-left: 5px;
-  
+  font-family: sans-serif;
+  color: rgb(128, 125, 130)
 }
 
 
