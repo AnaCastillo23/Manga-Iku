@@ -76,7 +76,7 @@ video {
   border:none;
   border-radius: 30px;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
-  font-size:20px;
+  font-size:18px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
@@ -129,9 +129,5 @@ video {
   margin-left: 5px;
   font-family: sans-serif;
   color: rgb(128, 125, 130);
+  font-size: 16px;
 }
-
-
-
-
-
