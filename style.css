@@ -55,16 +55,35 @@ body {
   margin-top:100px;
   display: flex;
   justify-content:center;
+  align-items: center;
   background: black;
+  height: 50px;
   
 }
 
 .nav-bar-elements a {
+  position: relative;
   font-size: 16px;
   font-family: sans-serif;
   color: white;
   text-decoration: none;
   margin-left: 50px;
+  
+}
+
+.nav-bar-elements a::before {
+  content:'';
+  position:absolute;
+  top: 100%;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: white;
+  transition: .3s;
+}
+
+.nav-bar-elements a:hover::before {
+  width: 100%;
   
 }
 
