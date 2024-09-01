@@ -80,7 +80,7 @@ video {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
-  padding-right: 100px;
+  padding-right: 20px;
   margin-top: 15px;
   outline: none;
 }
@@ -101,7 +101,7 @@ video {
   background-color: rgb(241, 244, 253);
   border: none;
   cursor: pointer;
-  margin-top:px;
+  margin-top:15px;
   transition: opacity 0.15s;
 }
 
