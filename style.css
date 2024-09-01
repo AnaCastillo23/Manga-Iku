@@ -33,11 +33,37 @@ video {
   margin-top: 20px;
 } */
 
+
+* {
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height:100vh;
+}
+
 .header {
  height: 55px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.nav-bar {
+  margin-top:100px;
+  display: flex;
+  justify-content:center;
+  background: black;
+  text-decoration: none;
+}
+
+.nav-bar-elements a {
+  text-align:center;
+  font-size: 16px;
+  font-family: sans-serif;
+  color: white;
 }
 
 .left-side {
