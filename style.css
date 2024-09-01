@@ -40,6 +40,20 @@ video {
   justify-content: space-between;
 }
 
+.tabs-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 100px;
+  background: seagreen;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index:100;
+  
+}
+
 .left-side {
   height: 130px;
     display: flex;
