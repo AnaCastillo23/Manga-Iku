@@ -52,7 +52,7 @@ body {
 }
 
 .nav-bar {
-  margin-top:20px;
+  margin-top:50px;
   display: flex;
   justify-content:center;
   align-items: center;
@@ -66,7 +66,7 @@ body {
   font-family: sans-serif;
   color: rgb(128, 125, 130);
   text-decoration: none;
-  margin-left: 50px;
+  margin-left: 40px;
   transition: .3s;  
 }
 
@@ -103,14 +103,13 @@ body {
 }
 
 .middle-section {
-  flex: 1;
-    margin-left: 70px;
-    margin-right: 35px;
+    flex: 1;
     max-width: 500px;
     height: 100px;
     display: flex;
     align-items: center;
     margin-top: 15px;
+    
 }
 
 .header-middle {
@@ -118,7 +117,8 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 50px;
+  margin-bottom: 100px;
 }
 
 .open-sans {
@@ -140,6 +140,7 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   margin-top: 15px;
+  margin-bottom: 15px;
   outline: none;
 }
 
@@ -177,7 +178,7 @@ body {
 .user-section {
   display: flex;
   margin-top:15px;
-  margin-left: 20px;
+  margin-left: 25px;
   align-items: center;
 }
 
@@ -202,7 +203,7 @@ body {
 
 
 .welcome-banner {
-  margin-left: 5px;
+  margin-left: 10px;
   font-family: sans-serif;
   color: rgb(128, 125, 130);
   font-size: 16px;
