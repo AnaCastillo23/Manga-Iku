@@ -143,13 +143,7 @@ body {
   margin-bottom: 15px;
   outline: none;
 }
-
-.search-box:hover {
-  opacity: 0.6;
-}
-.seacrh-box:active {
-  opacity: 1.0px;
-}
+ 
 
 
 .right-section {
