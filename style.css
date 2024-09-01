@@ -40,20 +40,6 @@ video {
   justify-content: space-between;
 }
 
-.tabs-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 20px 100px;
-  background: seagreen;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  z-index:100;
-  
-}
-
 .left-side {
   height: 130px;
     display: flex;
@@ -115,7 +101,7 @@ video {
   background-color: rgb(241, 244, 253);
   border: none;
   cursor: pointer;
-  margin-top:8px;
+  margin-top:px;
   transition: opacity 0.15s;
 }
 
@@ -132,7 +118,7 @@ video {
 
 .user-section {
   display: flex;
-  margin-top:8px;
+  margin-top:15px;
   margin-left: 20px;
   align-items: center;
 }
