@@ -17,11 +17,13 @@
   font-weight: bold;
   font-family: sans-serif;
   font-size: 17px;
+  margin: 20px;
 }
 
 .author {
   font-family: sans-serif;
   font-size: 15px;
+  margin: 20px;
 }
 
 .add-to-cart-button {
@@ -40,6 +42,7 @@
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
   transition: opacity 0.15s;
   cursor: pointer;
+  
 }
 
 .add-to-cart-button:hover {
