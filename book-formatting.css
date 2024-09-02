@@ -41,7 +41,6 @@
   color: white;
   font-family: sans-serif;
   font-weight: bold;
-  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
   transition: opacity 0.15s;
   cursor: pointer;
 }
@@ -50,6 +49,7 @@
   background: white;
   border-color: rgb(217, 38, 76);
   color: rgb(217, 38, 76);
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.20);
 }
 
 .add-to-cart-button:active {
